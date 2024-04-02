@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>first_blog</title>
-      <link href="/2024/04/02/index/"/>
-      <url>/2024/04/02/index/</url>
+      <title>第一篇博客</title>
+      <link href="/2024/04/02/first_blog/"/>
+      <url>/2024/04/02/first_blog/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<hr><h1 id="博客第一步从学习-Markdown-开始"><a href="#博客第一步从学习-Markdown-开始" class="headerlink" title="博客第一步从学习 Markdown 开始"></a>博客第一步从学习 Markdown 开始</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">*文字斜体*</span><br></pre></td></tr></table></figure><p><em>文字斜体</em></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">**文字加粗**</span><br></pre></td></tr></table></figure><p><strong>文字加粗</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">***文字斜体加粗***</span><br></pre></td></tr></table></figure><p><strong><em>文字斜体加粗</em></strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~~文字删除~~</span><br></pre></td></tr></table></figure><p><del>文字删除</del></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~~**文字加粗删除**~~</span><br></pre></td></tr></table></figure><p><del><strong>文字加粗删除</strong></del></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~~*文字斜体删除*~~</span><br></pre></td></tr></table></figure><p><del><em>文字斜体删除</em></del></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;u&gt;文字下划线使用 HTML u 标签&lt;/u&gt;</span><br></pre></td></tr></table></figure><p><u>文字下划线使用 HTML u 标签</u><br><a href="https://tool.lu/markdown/">Markdown 在线编辑</a></p><hr>]]></content>
       
       
       
